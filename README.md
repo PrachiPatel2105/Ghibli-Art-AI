@@ -10,8 +10,6 @@ An AI-powered art generator that creates beautiful, Ghibli-style artwork from te
 
 ### 🟢 Live Demo
 
-**[https://ghibli-art-generator-ashen.vercel.app/](https://ghibli-art-generator-ashen.vercel.app/)**
-
 **Note:** The live demo showcases the complete frontend UI and user experience. As the backend is not currently deployed, the AI generation features are inactive in this demo. To test the full functionality, please follow the local setup instructions below.
 
 ---
